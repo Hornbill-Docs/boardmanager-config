@@ -1,0 +1,29 @@
+{
+  "docId": "boardmanager-config",
+  "title": "Board Manager Configuration",
+  "description": "Guide to help install and setup Board Manager",
+  "publicSource": "https://github.com/Hornbill-Docs/boardmanager-config.git",
+  "productFamily": "com.hornbill.boardmanager",
+  "version": "0.0.1",
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "boardmanager-config/index"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": []
+}
