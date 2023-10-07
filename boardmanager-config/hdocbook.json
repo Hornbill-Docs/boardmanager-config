@@ -4,7 +4,7 @@
   "description": "Guide to help install and setup Board Manager",
   "publicSource": "https://github.com/Hornbill-Docs/boardmanager-config.git",
   "productFamily": "com.hornbill.boardmanager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "audience": [
     "public"
   ],
@@ -23,7 +23,7 @@
          "items":[
             {
               "text": "Installing Board Manager",
-              "link": "boardmanager-config/installing-board-manager"
+              "link": "boardmanager-config/getting-started/installing-board-manager"
             }
          ]
         },
