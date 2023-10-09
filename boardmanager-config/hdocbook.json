@@ -4,7 +4,7 @@
   "description": "Guide to help install and setup Board Manager",
   "publicSource": "https://github.com/Hornbill-Docs/boardmanager-config.git",
   "productFamily": "com.hornbill.boardmanager",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "audience": [
     "public"
   ],
@@ -48,6 +48,10 @@
               "link": "boardmanager-config/customize/auto-tasks"
             },
             {
+              "text": "Workflow",
+              "link": "boardmanager-config/customize/workflow"
+            },
+            {
               "text": "Translations",
               "link": "boardmanager-config/customize/translations"
             }
@@ -55,6 +59,7 @@
         },
         {
           "text": "Advanced Analytics",
+          "draft": "true",
           "items":[
             {
               "text": "Measures",
@@ -76,6 +81,7 @@
         },
         {
           "text": "Reporting",
+          "draft": "true",
           "items": [
             {
               "text": "Reports",
