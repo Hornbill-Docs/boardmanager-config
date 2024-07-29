@@ -4,7 +4,7 @@
   "description": "Guide to help install and setup Board Manager",
   "publicSource": "https://github.com/Hornbill-Docs/boardmanager-config.git",
   "productFamily": "com.hornbill.boardmanager",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "audience": [
     "public"
   ],
@@ -13,92 +13,92 @@
   ],
   "navigation": {
     "items": [
-        {
-          "text": "Overview",
-          "link": "boardmanager-config/index"
-        },
-        {
-         "text": "Getting Started",
-         "expand": true,
-         "items":[
-            {
-              "text": "Installing Board Manager",
-              "link": "boardmanager-config/getting-started/installing-board-manager"
-            }
-         ]
-        },
-        {
-          "text": "Setup",
-          "items":[
-            {
-              "text": "Roles",
-              "link": "boardmanager-config/setup/roles"
-            },
-            {
-              "text": "Simple Lists",
-              "link": "boardmanager-config/setup/simple-lists"
-            }
-          ]
-        },
-        {
-          "text": "Customize",
-          "items":[
-            {
-              "text": "Auto Tasks",
-              "link": "boardmanager-config/customize/auto-tasks"
-            },
-            {
-              "text": "Workflow",
-              "link": "boardmanager-config/customize/workflow"
-            },
-            {
-              "text": "Translations",
-              "link": "boardmanager-config/customize/translations"
-            }
-          ]          
-        },
-        {
-          "text": "Advanced Analytics",
-          "draft": "true",
-          "items":[
-            {
-              "text": "Measures",
-              "link": "boardmanager-config/advanced-analytics/measures"
-            },
-            {
-              "text": "Widgets",
-              "link": "boardmanager-config/advanced-analytics/widgets"
-            },
-            {
-              "text": "Dashboards",
-              "link": "boardmanager-config/advanced-analytics/dashboards"
-            },
-            {
-              "text": "Slideshows",
-              "link": "boardmanager-config/advanced-analytics/slideshows"
-            }
-          ] 
-        },
-        {
-          "text": "Reporting",
-          "draft": "true",
-          "items": [
-            {
-              "text": "Reports",
-              "link": "boardmanager-config/reporting/reports"
-            }
-          ]
-        },
-        {
-          "text": "Advanced Tools & Settings",
-          "items": [
-            {
-              "text": "Applications Settings",
-              "link": "boardmanager-config/advanced-tools-and-settings/application-settings"
-            }
-          ]
-        }
-       ]
+      {
+        "text": "Overview",
+        "link": "boardmanager-config/index"
       },
+      {
+        "text": "Getting Started",
+        "expand": true,
+        "items": [
+          {
+            "text": "Installing Board Manager",
+            "link": "boardmanager-config/getting-started/installing-board-manager"
+          }
+        ]
+      },
+      {
+        "text": "Setup",
+        "items": [
+          {
+            "text": "Roles",
+            "link": "boardmanager-config/setup/roles"
+          },
+          {
+            "text": "Simple Lists",
+            "link": "boardmanager-config/setup/simple-lists"
+          }
+        ]
+      },
+      {
+        "text": "Customize",
+        "items": [
+          {
+            "text": "Auto Tasks",
+            "link": "boardmanager-config/customize/auto-tasks"
+          },
+          {
+            "text": "Workflow",
+            "link": "boardmanager-config/customize/workflow"
+          },
+          {
+            "text": "Translations",
+            "link": "boardmanager-config/customize/translations"
+          }
+        ]
+      },
+      {
+        "text": "Advanced Analytics",
+        "draft": "true",
+        "items": [
+          {
+            "text": "Measures",
+            "link": "boardmanager-config/advanced-analytics/measures"
+          },
+          {
+            "text": "Widgets",
+            "link": "boardmanager-config/advanced-analytics/widgets"
+          },
+          {
+            "text": "Dashboards",
+            "link": "boardmanager-config/advanced-analytics/dashboards"
+          },
+          {
+            "text": "Slideshows",
+            "link": "boardmanager-config/advanced-analytics/slideshows"
+          }
+        ]
+      },
+      {
+        "text": "Reporting",
+        "draft": "true",
+        "items": [
+          {
+            "text": "Reports",
+            "link": "boardmanager-config/reporting/reports"
+          }
+        ]
+      },
+      {
+        "text": "Advanced Tools & Settings",
+        "items": [
+          {
+            "text": "Applications Settings",
+            "link": "boardmanager-config/advanced-tools-and-settings/application-settings"
+          }
+        ]
+      }
+    ]
+  },
   "tags": []
 }
