@@ -2,7 +2,7 @@
 The various application settings associated with Hornbill Board Manager can be configured in Configuration under the Board Manager app. This document describes some of the more commonly used settings. This is not a complete list and more settings can be viewed within Configuration.
 
 ## Before You Begin
-* The [Board Super User](/boardmanager-config/setup/roles#roles) role is required to access the Board Manager settings.
+* The [Board Super User](/boardmanager-config/setup/roles) role is required to access the Board Manager settings.
 * Be familiar with how to use [Configuration](/esp-config/getting-started/using-configuration).
 
 ## Accessing Application Settings
