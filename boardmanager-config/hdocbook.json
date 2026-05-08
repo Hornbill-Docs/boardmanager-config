@@ -59,7 +59,7 @@
       },
       {
         "text": "Advanced Analytics",
-        "draft": "true",
+        "draft": true,
         "items": [
           {
             "text": "Measures",
@@ -81,7 +81,7 @@
       },
       {
         "text": "Reporting",
-        "draft": "true",
+        "draft": true,
         "items": [
           {
             "text": "Reports",
