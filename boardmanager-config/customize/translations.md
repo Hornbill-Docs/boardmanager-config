@@ -3,7 +3,7 @@ layout: article-toc
 ---
 # Translations
 
-The Translation option provide the ability to translate individual strings of text into the language of your choice. Many of these strings can be translated through the user interface using [Translation Mode](/esp-config/internationalization/translation-mode), however this is not always the case and some strings must be translated here.
+The Translation option provides the ability to translate individual strings of text into the language of your choice. Many of these strings can be translated through the user interface using [Translation Mode](/esp-config/internationalization/translation-mode), however this is not always the case and some strings must be translated here.
 
 All the translation strings available here are related to the Board Manager application only.  Each Hornbill application has its own area for providing translations as well as the platform and portals.
 

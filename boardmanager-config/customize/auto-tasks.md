@@ -6,7 +6,7 @@ Autotasks can be created for Board Manager these can be used in the following pl
 * By creating an automation for a board that can be triggered when a card is added, removed, or updated.
 * By creating an automation for a lane that can be triggered when a card enters (either created in, or moved into a lane) or exits (either removed whilst in a lane, or moved out of a lane).
 
-To create an autotask a user must have the manage BPM system right, this right can be granted by the Autotask Designer role
+To create an autotask, a user must have the manage BPM system right, this right can be granted by the Autotask Designer role
 
 ### Board Custom Button
 * boardId - Id of the board

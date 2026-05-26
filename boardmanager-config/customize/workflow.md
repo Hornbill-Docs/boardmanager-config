@@ -14,7 +14,7 @@ Use this node to retrieve information about a specific Board.
 
 #### Options
 
-* **Application**: The name of the Application the Board belongs too - Mandatory
+* **Application**: The name of the Application the Board belongs to - Mandatory
 * **Entity**: The name of the list from the above specified board to which the Comment card will be added.
 * **Entity ID**: The actual comment, as it will appear on the card on the Board.
 * **Board**: The name of the board you wish to get information about.
@@ -67,12 +67,12 @@ Use this option to remove a card from a specific board.
 #### Options
 
 * **card Id**: This is a mandatory setting and is needed to identify which card to remove from the board. You can get the card id by first having a Get Card Information node in the stage on the process, and using the output param as a variable for this field using the variable picker.
-It is possible that a card resides on different boards, and will therefore have different card id's for each board. As such you will need to obtain the card ID for the board you wish to remove the card from.
+It is possible that a card resides on different boards, and will therefore have different card IDs for each board. As such you will need to obtain the card ID for the board you wish to remove the card from.
 * **Remove Completely**: The default is false, and the card will be archived, if set to true the card will be completely removed from the board and will not be able to be manually un-archived.
 
 ## Lane
 
-Use the Lane operation to get information about the card position and order in the lane, in order to have the information available when using other operations like Add to Board and Move on Board if you want to add a card to the next position on a lane, as appose to always adding it to the top.
+Use the Lane operation to get information about the card position and order in the lane, in order to have the information available when using other operations like Add to Board and Move on Board if you want to add a card to the next position on a lane, as opposed to always adding it to the top.
 
 ### Get Lane Information
 
