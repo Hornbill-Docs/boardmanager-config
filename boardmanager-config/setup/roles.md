@@ -15,6 +15,6 @@ System roles are provided when Board Manager is installed or updated. You can as
 |Role|Description|
 |-|-|
 |Boards User|Required for all users of Board Manager. All users assigned this role will see the Board Manager application in the Hornbill Menu and have access to create boards, view, move on, and add to boards.|
-|Board BPM User|Allows a user account to interact with the Boards Manager app via workflow  automation (add, move, remove cards from boards automatically, etc). The user will not have access directly to boards with this role.|
+|Board BPM User|Allows a user account to interact with the Boards Manager app via workflow  automation (add, move, remove cards from boards automatically, etc). The user will not have access directly to boards with this role. It is important that any user that might interact with boards via workflow automation from any application be assigned this role.|
 |Board Super User|Provides the user with access to all boards and the ability via the Share Boards options to change the owner of any board.|
 |Autotask Designer|Allows the user to create autotasks|
