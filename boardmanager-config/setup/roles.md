@@ -20,5 +20,5 @@ System roles are provided when Board Manager is installed or updated. You can as
 |Autotask Designer|Allows the user to create autotasks|
 
 :::important
-The Board BPM User role is required for any user that will interact with boards via workflow automation, even if they will not have direct access to boards. If a user does not have this role, they will not be able to interact with boards via workflow automation from any application, even if they have other Board Manager roles assigned.
+The Board BPM User role is required for any user, including Basic Users, that will interact with boards via workflow automation, even if they will not have direct access to boards. If a user does not have this role, they will not be able to interact with boards via workflow automation from any application, even if they have other Board Manager roles assigned.
 :::
